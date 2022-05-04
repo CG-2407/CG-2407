@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="50%" width="50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="30%" width="30%" />
 </div>
 
 <!--
