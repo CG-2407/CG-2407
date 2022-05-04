@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <!--
 **CG-2407/CG-2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
