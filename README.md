@@ -16,7 +16,9 @@
   
 
 - 💪 MERN Stack it's my strength right now  
-  
+
+
+- 📫 How to reach me: chistrian101@hotmail.com
 
 <br/>  
 
