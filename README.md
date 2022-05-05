@@ -1,3 +1,5 @@
+<img src="https://github.com/CG-2407/CG-2407/blob/main/portada.png" alt="banner that says Cristhian González - software developer">
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="30%" width="30%" />
