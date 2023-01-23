@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="30%" width="30%" />
 </div>
 
-### <div align="center">I'm Cristhian, a 9th semester Systems Engineering student.  👨‍💻 I love Web Development and I'm currently learning a lot about it.
+### <div align="center">I'm Cristhian, a 10th semester Systems Engineering student.  👨‍💻 I love Web Development and I'm currently learning a lot about it.
 </div>  
   
 
