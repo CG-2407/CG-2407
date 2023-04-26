@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="30%" width="30%" />
 </div>
 
-### <div align="center">I'm Cristhian, a 10th semester Systems Engineering student.  👨‍💻 I love Web Development and I'm currently learning a lot about it.
+### <div align="center">I'm Cristhian, a Systems Engineer.  👨‍💻 I love Web Development and I'm currently learning a lot about it.
 </div>  
   
 
@@ -18,7 +18,7 @@
 - 💪 MERN Stack it's my strength right now  
 
 
-- 📫 How to reach me: chistrian101@hotmail.com
+- 📫 How to reach me: cristhixnga@gmail.com
 
 <br/>  
 
